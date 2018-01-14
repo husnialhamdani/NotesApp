@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HudaniNotesApp</string>
+    <string name="date">date</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="create_new">Create New</string>
+    <string name="delete">Delete</string>
+    <string name="submit">Submit</string>
+</resources>
